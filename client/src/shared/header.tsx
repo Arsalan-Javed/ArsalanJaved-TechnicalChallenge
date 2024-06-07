@@ -41,7 +41,7 @@ export default function Header(){
         <div className="bg-gray-800 p-6">
             <div className="flex justify-between">
                 <div className="text-3xl font-bold text-white">
-                    LeyLine - Technical Challenge 
+                    Technical Challenge 
                 </div>
                 { user && <div className="flex justify-end gap-3">
                     <div className="text-xl self-center text-white">
