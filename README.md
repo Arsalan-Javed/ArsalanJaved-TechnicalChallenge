@@ -1,4 +1,4 @@
-# Getting Started LeyLine - Technical Challenge 
+# Getting Started Technical Challenge 
 
 This project used following technologies 
 
