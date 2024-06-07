@@ -7,6 +7,8 @@ This project used following technologies
     3- PostgreSQL
     5- Web sockets 
 
+Here is short [Video](https://share.vidyard.com/watch/LRGMqCCWsQH2eJYNtb62dp?) of codebase overview and working app.
+
 ## Frontend (React)
 
 In the project client directory has frontend code.
