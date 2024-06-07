@@ -1,6 +1,7 @@
 # Getting Started LeyLine - Technical Challenge 
 
 This project used following technologies 
+
     1- React , Typescript , Tailwind (Frontend)
     2- Node.js (Backend) 
     3- PostgreSQL
