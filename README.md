@@ -34,7 +34,7 @@ inside server directory you can run:
 
 to install all it's dependencies.
 
-Run following command to genrate new ORM client.
+Run following command (Optional in case of related error) to genrate new ORM client.
 ### `npx prisma generate`
 
 After completion the installation, you can run:
